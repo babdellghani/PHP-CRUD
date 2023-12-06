@@ -12,6 +12,7 @@ This is a simple PHP CRUD (Create, Read, Update, Delete) application that allows
 
 ## Prerequisites
 
-- PHP (>= 8.x)
+- PHP (8.2)
 - MySQL Database
+- XAMPP
 - Web server (e.g., Apache, Nginx)
